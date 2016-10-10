@@ -1,4 +1,0 @@
-﻿var server = "ja-cdbr-azure-west-a.cloudapp.net";
-var database = "test_db_free";
-var user = "b2baa25199d131";
-var pass = "0a1078fc";
