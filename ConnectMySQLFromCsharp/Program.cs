@@ -7,10 +7,10 @@ namespace ConnectToMySQL
     {
         static void Main(string[] args)
         {
-            var server = "ja-cdbr-azure-west-a.cloudapp.net";
-            var database = "test_db_free";
-            var user = "b2baa25199d131";
-            var pass = "0a1078fc";
+            var server = "server name";
+            var database = "db_name";
+            var user = "user_id";
+            var pass = "****";
 
             var myConnectionString = string.Format(
                 "Server={0};Database={1};Uid={2};Pwd={3}",
