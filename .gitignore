@@ -191,4 +191,4 @@ ModelManifest.xml
 ## ---------------------
 ## Add igore settings
 ## ---------------------
-ConnectMySQLFromCsharp/ConnectInfo.txt
+/ConnectMySQLFromCsharp/ConnectionInfos.txt
